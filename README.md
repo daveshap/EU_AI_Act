@@ -1,2 +1,189 @@
-# EU_AI_Act
-Let's decompose the EU AI Act with GPT
+# EU AI Act
+
+Let's decompose the EU AI Act with GPT. I broke it up into chunks of 100 lines and asked GPT4 to "drastically reduce word count" while "retaining context". it did a pretty good job. The result was 37 chunks totaling just over 6000 tokens, meaning they could easily fit in the GPT-3.5-TURBO-16K model for chat discussions. 
+
+The full summary is below, it is also available in the `merged.txt` file in this repo
+
+# Summary
+
+The European Commission proposes a regulation for harmonised rules on Artificial Intelligence (AI), aiming to balance its socio-economic benefits with potential risks. The proposal seeks to ensure AI systems are safe, respect fundamental rights, provide legal certainty for investment and innovation, enhance governance, and prevent market fragmentation. It prohibits certain harmful AI practices, imposes restrictions on remote biometric identification systems, and defines "high-risk" AI systems that must comply with mandatory requirements. The proposal also establishes a governance system at Member State level and a European Artificial Intelligence Board at Union level. It supports innovation through AI regulatory sandboxes and measures to reduce regulatory burden on SMEs and start-ups. The proposal aligns with existing EU legislation and policies, including data protection, consumer protection, non-discrimination, and gender equality.
+
+
+This proposal outlines regulations for Artificial Intelligence (AI) systems in the EU. It is based on extensive stakeholder consultation and impact assessments. The proposal adopts a risk-based approach, categorizing AI systems into three risk levels: unacceptable, high, and low or minimal. Certain AI practices are prohibited due to their potential to violate fundamental rights. High-risk AI systems are subject to specific requirements and obligations, including data handling, transparency, human oversight, and robustness. The proposal also includes measures to support innovation and compliance for small-scale users and providers. The proposal aims to increase trust in AI, provide legal certainty, and prevent market fragmentation. It also includes provisions for monitoring and evaluation, with a review scheduled five years after implementation.
+
+
+This legislation outlines the European Union's rules for high-risk artificial intelligence (AI) systems. It classifies high-risk AI systems based on their intended purpose and usage, and requires them to comply with mandatory requirements and an ex-ante conformity assessment. The legislation also sets out legal requirements for data governance, transparency, human oversight, and system robustness. It places obligations on providers of high-risk AI systems and other participants in the AI value chain. The legislation also establishes a framework for regulatory sandboxes to test innovative technologies and includes measures to reduce the regulatory burden on SMEs and start-ups. It sets up governance systems at Union and national level, and requires providers of AI systems to register their systems in an EU database. The legislation also includes transparency obligations for certain AI systems and creates a framework for voluntary codes of conduct.
+
+
+This legislation proposes a risk-based approach to regulate artificial intelligence (AI) systems, focusing on high-risk AI systems that could potentially harm human dignity, freedom, democracy, equality, and fundamental rights. It prohibits AI practices that manipulate human behavior, exploit vulnerabilities, or enable social scoring by public authorities. It also restricts the use of AI for real-time remote biometric identification in public spaces, except in specific situations related to law enforcement. The legislation mandates that high-risk AI systems comply with requirements related to data quality, technical documentation, transparency, human oversight, and robustness. It also outlines responsibilities for providers, users, and third parties involved in the AI value chain. The legislation emphasizes the role of standardization and conformity assessment in ensuring the trustworthiness of high-risk AI systems.
+
+
+This regulation outlines rules for the use and development of artificial intelligence (AI) systems in the EU. It limits third-party conformity assessment for high-risk AI systems, with exceptions for remote biometric identification systems. Notified bodies should be designated for third-party conformity assessment. AI systems should undergo new conformity assessments for significant modifications or changes in purpose. High-risk AI systems should bear the CE marking for conformity and free movement within the internal market. Member States can authorize non-conformity assessed AI systems for public security or protection of life and health. Providers of high-risk AI systems should register their systems in an EU database. AI systems interacting with natural persons or generating content should have specific transparency obligations. Regulatory sandboxes should be established for testing innovative AI systems. The regulation also establishes a European Artificial Intelligence Board for advisory tasks. Member States should designate national competent authorities for supervising the application and implementation of this regulation. Providers should have a post-market monitoring system in place. The regulation also encourages the development of non-high-risk AI systems in accordance with the requirements of this regulation. The regulation applies to providers and users of AI systems in the Union and those located in a third country where the output is used in the Union.
+
+
+This EU regulation does not apply to AI systems used for military purposes, by third-country public authorities, or in international law enforcement agreements. It defines terms related to AI systems, including 'provider', 'user', 'importer', 'distributor', 'operator', and 'intended purpose'. It also outlines the roles of 'authorized representatives' and 'small-scale providers'. The regulation further defines terms related to the market placement, service provision, and modification of AI systems. It also covers conformity assessment, post-market monitoring, and market surveillance authority. The regulation provides definitions for various types of data used in AI systems, including 'training data', 'validation data', 'testing data', and 'input data'. It also defines terms related to biometric data and its use in AI systems. Lastly, it defines terms related to law enforcement authorities and their activities.
+
+
+This legislation defines the roles of national supervisory and competent authorities in implementing and applying AI regulations. It prohibits certain AI practices, such as using subliminal techniques or exploiting vulnerabilities to harm individuals, and using AI systems to evaluate or classify individuals' trustworthiness based on their social behavior. The use of real-time remote biometric identification systems in public spaces for law enforcement is also regulated, requiring prior authorization and compliance with necessary safeguards. The legislation classifies certain AI systems as high-risk, including those used as safety components of products covered by Union harmonisation legislation, and empowers the Commission to update the list of high-risk AI systems.
+
+
+This legislation mandates that high-risk AI systems must comply with established requirements, considering their intended purpose and risk management system. A risk management system must be implemented, involving continuous analysis and evaluation of known and foreseeable risks, adoption of risk management measures, and communication of residual risks to the user. The AI systems must be tested for risk management measures and compliance with requirements.
+
+The legislation also requires the use of quality training, validation, and testing data sets for developing high-risk AI systems. These data sets must be relevant, representative, free of errors, and complete. They should also consider specific geographical, behavioural, or functional settings.
+
+The legislation mandates the creation of technical documentation before the AI system is placed on the market or put into service, which should demonstrate compliance with requirements. The AI systems should also have capabilities for automatic recording of events (logs) while operating.
+
+
+High-risk AI systems must have logging capabilities for traceability and monitoring, recording usage periods, reference databases, input data, and identification of individuals verifying results. These systems must be transparent, with clear instructions and information about the provider, system's purpose, performance, limitations, changes, human oversight measures, and expected lifetime.
+
+Human oversight is required to minimize risks, with measures built into the system or implemented by the user. The overseers must understand the system's capacities and limitations, be aware of automation bias, interpret the system's output, have the ability to override the system, and intervene or stop the system's operation.
+
+High-risk AI systems must achieve appropriate levels of accuracy, robustness, and cybersecurity, and be resilient against errors, faults, inconsistencies, and unauthorized third-party attempts to alter their use or performance. Providers of these systems must ensure compliance with these requirements.
+
+
+Providers of high-risk AI systems must have a quality management system that complies with Article 17, create technical documentation, keep automatically generated logs, ensure the system undergoes a conformity assessment before being put on the market, comply with registration obligations, take corrective actions if the system doesn't comply with requirements, inform national authorities of non-compliance and corrective actions, affix the CE marking to indicate conformity, and demonstrate conformity upon request.
+
+Article 17 outlines the requirements for the quality management system, including strategies for regulatory compliance, design and development procedures, testing and validation procedures, technical specifications, data management systems, risk management, post-market monitoring, incident reporting, communication handling, record keeping, resource management, and an accountability framework.
+
+Article 18 requires providers to draw up technical documentation. Article 19 mandates a conformity assessment before the system is put on the market. Article 20 requires providers to keep automatically generated logs. Article 21 requires providers to take corrective actions if the system doesn't comply with the regulation. Article 22 mandates providers to inform national authorities if the system presents a risk. Article 23 requires providers to cooperate with competent authorities. Article 24 outlines the obligations of product manufacturers. Article 25 requires providers outside the Union to appoint an authorised representative in the Union.
+
+
+This legislation outlines the obligations of providers, importers, distributors, users, and other third parties of high-risk AI systems. Providers must keep a copy of the EU declaration of conformity and technical documentation, provide necessary information to demonstrate conformity, and cooperate with national authorities. Importers must ensure the AI system has undergone the appropriate conformity assessment procedure, bears the required conformity marking, and is accompanied by the required documentation. Distributors must verify the AI system's conformity and ensure storage or transport conditions do not jeopardize its compliance. Users must use the AI system according to instructions, monitor its operation, and keep logs. Any distributor, importer, user, or third party that modifies a high-risk AI system or places it on the market under their name is considered a provider. The legislation also outlines the responsibilities of notifying authorities and the application process for a conformity assessment body for notification.
+
+
+This legislation outlines the procedures for notifying authorities about conformity assessment bodies, which must meet the requirements in Article 33. These bodies assess the conformity of high-risk AI systems. The bodies must be independent, impartial, and maintain confidentiality. They must have sufficient resources, insurance, and competence to carry out their tasks. They must also participate in coordination activities and standardisation organisations. If a body subcontracts tasks, it must ensure the subcontractor meets the same requirements. The Commission assigns identification numbers to these bodies and maintains a public list. If a body no longer meets the requirements or fails its obligations, the notifying authority must investigate and may restrict, suspend or withdraw the notification. The Commission can also investigate and request corrective measures. Conformity assessment bodies in third countries may be authorised to carry out these activities. High-risk AI systems that conform to harmonised standards are presumed to meet the requirements.
+
+
+Article 41 allows the Commission to adopt common specifications for AI systems if harmonised standards are insufficient or non-existent. The Commission must consult relevant bodies or expert groups when preparing these specifications. AI systems that comply with these specifications are presumed to meet the requirements of Chapter 2. Providers not complying with these specifications must justify their technical solutions.
+
+Article 42 presumes high-risk AI systems to be in compliance with certain requirements if they have been trained and tested on specific data or certified under a cybersecurity scheme.
+
+Article 43 outlines the conformity assessment procedures for high-risk AI systems. Providers must follow specific procedures based on whether they have applied harmonised standards or common specifications. High-risk AI systems must undergo a new conformity assessment if substantially modified.
+
+Article 44 states that certificates issued by notified bodies are valid for up to five years and can be extended. If an AI system no longer meets requirements, the certificate can be suspended or withdrawn.
+
+Article 45 ensures an appeal procedure against decisions of notified bodies.
+
+Article 46 requires notified bodies to inform the notifying authority of any changes to certificates or approvals and share information with other notified bodies.
+
+Article 47 allows market surveillance authorities to authorise the use of specific high-risk AI systems for exceptional reasons, subject to certain conditions and procedures.
+
+Article 48 is not provided.
+
+
+AI system providers must create an EU declaration of conformity for each AI system, kept for 10 years and provided to authorities upon request. The declaration confirms the AI system meets requirements outlined in Chapter 2 and contains information from Annex V, translated into required languages. If multiple legislations apply, a single declaration is drawn up. The provider assumes responsibility for compliance. The Commission can update the declaration content as needed.
+
+High-risk AI systems must have a visible CE marking of conformity. If not possible, it's affixed to packaging or documentation. The marking follows principles in Regulation (EC) No 765/2008 and includes the identification number of the notified body responsible for conformity assessment.
+
+Providers must keep technical documentation, quality management system documentation, approved changes, decisions, and other documents issued by notified bodies, and the EU declaration of conformity for 10 years. High-risk AI systems must be registered in the EU database before being placed on the market.
+
+AI systems interacting with humans must inform them they're interacting with an AI, unless it's obvious or the system is used for law enforcement. Users of emotion recognition or biometric categorisation systems must inform exposed individuals. AI systems generating or manipulating content resembling real entities must disclose the content is artificially generated.
+
+AI regulatory sandboxes provide a controlled environment for AI system development, testing, and validation under supervision of competent authorities. Participants remain liable for any harm caused during sandbox experimentation. Sandbox activities are coordinated within the European Artificial Intelligence Board, with annual reports submitted to the Board and the Commission. Implementing acts outline the operation of the sandboxes.
+
+In the sandbox, personal data collected for other purposes can be processed for developing and testing AI systems under certain conditions, including substantial public interest, necessity, effective monitoring mechanisms, data isolation, no data transmission to other parties, and no measures or decisions affecting data subjects.
+
+
+This legislation outlines the rules for handling personal data in AI regulatory sandboxes, including data deletion and log retention. It mandates a detailed description of AI system training, testing, and validation processes. It also requires a summary of the AI project to be published on the competent authorities' website.
+
+The legislation also provides measures for small-scale providers and users, including priority access to sandboxes, awareness activities, and a dedicated communication channel. It also proposes reduced fees for conformity assessment based on their size and market size.
+
+The legislation establishes the European Artificial Intelligence Board to advise and assist the Commission in matters related to AI. The Board is composed of national supervisory authorities and the European Data Protection Supervisor. The Board's tasks include sharing expertise, contributing to uniform practices, and issuing opinions on matters related to AI implementation.
+
+Each Member State must establish national competent authorities to ensure the application and implementation of this Regulation. These authorities should be adequately resourced and may provide guidance on the implementation of this Regulation.
+
+The legislation also mentions the creation of an EU database for stand-alone high-risk AI systems.
+
+
+The EU Commission, with Member States, will establish a database for high-risk AI systems, with data provided by the system providers. The database will be publicly accessible and contain personal data only when necessary. The Commission will manage the database and provide technical support to providers.
+
+Providers must establish a post-market monitoring system for high-risk AI systems, collecting and analyzing data on system performance. The system will be based on a post-market monitoring plan, which will be part of the technical documentation.
+
+Providers must report any serious incidents or malfunctioning of high-risk AI systems to the market surveillance authorities. The authorities will then inform the national public authorities or bodies.
+
+Regulation (EU) 2019/1020 will apply to AI systems covered by this Regulation. The national supervisory authority will report on market surveillance activities to the Commission. For high-risk AI systems, the market surveillance authority will be the authority responsible for market surveillance activities designated under those legal acts.
+
+Market surveillance authorities will have full access to the training, validation, and testing datasets used by the provider, and, if necessary, to the source code of the AI system. National public authorities or bodies will have the power to request and access any documentation created or maintained under this Regulation.
+
+If an AI system presents a risk, the market surveillance authority of a Member State will carry out an evaluation of the AI system. If the system does not comply with the requirements, the authority will require the operator to take corrective actions. If non-compliance is not restricted to its national territory, the authority will inform the Commission and the other Member States.
+
+
+This legislation outlines the responsibilities of AI system operators and market surveillance authorities in the EU. Operators must take corrective action for non-compliant AI systems. If they fail to do so, the market surveillance authority can restrict or withdraw the product from the market and must inform the Commission and other Member States. The authority must provide detailed information about the non-compliant AI system and the measures taken. If no objections are raised within three months, the measures are deemed justified.
+
+The Union safeguard procedure is initiated if objections are raised or if the Commission deems the measure contrary to Union law. The Commission will consult with the relevant parties and decide if the measure is justified. If justified, all Member States must ensure the non-compliant AI system is withdrawn from their market.
+
+If an AI system is compliant but presents a risk, the market surveillance authority can require the operator to take corrective action, withdraw the product, or recall it. The Commission will evaluate the measures taken.
+
+The legislation also covers formal non-compliance, confidentiality, and penalties. Operators must correct non-compliance issues, and if they persist, the Member State can restrict or withdraw the product. Confidentiality of information obtained during the application of this regulation must be respected. Penalties for infringements are to be set by Member States and must be effective, proportionate, and dissuasive.
+
+
+This legislation outlines the administrative fines for non-compliance with AI regulations. Fines can reach up to 30 million EUR or 6% of a company's total worldwide annual turnover. Factors such as the nature, gravity, and duration of the infringement, previous fines, and the size and market share of the operator are considered when deciding the fine. Member States can decide if public authorities can be fined. The European Data Protection Supervisor can impose fines on Union institutions, agencies, and bodies, with a maximum fine of 500,000 EUR. The legislation also details the delegation of power to the Commission to adopt delegated acts, which can be revoked by the European Parliament or the Council. Amendments are made to Regulations (EC) No 300/2008 and (EU) No 167/2013 to consider AI systems.
+
+
+The amendments to various EU regulations and directives mandate that when adopting delegated or implementing acts related to Artificial Intelligence (AI) systems, which are considered safety components, the requirements outlined in Title III, Chapter 2 of the new Regulation on Artificial Intelligence must be considered. This applies to AI systems already in service or on the market, unless significant changes in design or purpose occur. The Commission will annually assess the need for amendments to the list in Annex III after the regulation's enforcement.
+
+
+The Commission will submit a public report every four years, starting three years after this Regulation's application, evaluating its implementation. The report will focus on the resources of national authorities and the penalties applied by Member States for infringements. The Commission will also assess the impact of codes of conduct for AI systems. The Commission, Member States, and national authorities will provide necessary information. The Commission will consider the positions of the Board, European Parliament, Council, and other relevant bodies. If needed, the Commission may propose amendments to the Regulation.
+
+The Regulation will be effective 20 days after its publication and will apply 24 months after its enforcement. Certain sections will apply earlier. The Regulation is binding in all Member States.
+
+A legislative financial statement is included, detailing the proposal's framework, management measures, and estimated financial impact.
+
+
+This legislative proposal aims to regulate artificial intelligence (AI) within the European Union (EU). The main goal is to ensure the single market functions properly by creating conditions for the development and use of trustworthy AI. The proposal sets specific requirements for AI systems and obligations for all value chain participants to ensure safety and respect for fundamental rights and Union values. It aims to provide legal certainty to facilitate investment and innovation in AI, enhance governance and enforcement of existing laws, and prevent market fragmentation. The proposal also outlines performance indicators, including the number of serious incidents involving AI and total AI investment in the EU. The regulation should be fully applicable 18 months after its adoption, with certain governance structures in place beforehand. The proposal argues that a common EU legislative action on AI could boost the internal market and provide European industry with a competitive edge globally.
+
+
+The E-commerce Directive 2000/31/EC provides a framework for digital services and cooperation among EU Member States. However, it has shortcomings, including unclear response timeframes and lack of responsiveness, leading to trust issues. The Directive needs a differentiated set of rules at the EU level, requiring a specific cooperation mechanism.
+
+The Regulation Laying Down Harmonised Rules on Artificial Intelligence establishes a new framework for AI systems, requiring a new regulatory and coordination function. It complements Digital Europe's priority of promoting AI diffusion. The staff will be redeployed and other costs will be supported from the DEP. envelope.
+
+The proposal has an unlimited duration, with a start-up period followed by full-scale operation. It will be directly managed by the Commission. The Regulation will be reviewed five years after its implementation. The Commission will report the findings to the European Parliament, the Council, and the European Economic and Social Committee.
+
+The Regulation establishes harmonised rules for AI systems, requiring a new advisory group coordinating national authorities' activities. The enforcement of the new Regulation will require 10 FTE. The Board will be supported by the Commission's administrative structure and an expert group for additional expertise.
+
+Existing fraud prevention measures will cover the additional appropriations necessary for this Regulation. The financial impact of the proposal will affect the existing budget lines of the multiannual financial framework.
+
+
+The legislation outlines the budget line and type of expenditure for various initiatives, including administrative expenditure and support for the Digital Europe programme. It specifies whether the funding is differential or non-differential and whether it comes from EFTA countries, candidate countries, or third countries. The proposal requires the use of operational appropriations, with the financial impact estimated for the years 2022 to 2027 under the DG: CNECT heading of the multiannual financial framework.
+
+
+The legislation outlines budget commitments and payments for specific programmes. It includes a total of 1.000 in commitments and 1.000 in payments for budget line 70 02 04 03. It also includes appropriations of 1.200 for budget line 02 01 30 01. The total appropriations for DG CNECT are 2.200 in commitments and 2.200 in payments. The total operational appropriations are not specified.
+
+
+The proposal/initiative allocates total appropriations under Heading 1 of the multiannual financial framework. The total commitments amount to 2.200, with payments also totaling 2.200. If more than one heading is affected, the section is repeated. The total operational appropriations and total appropriations of an administrative nature financed from the envelope for specific programmes are also calculated. The total appropriations under Headings 1 to 6 of the multiannual financial framework are then determined.
+
+
+The legislation outlines the administrative expenditure for the years 2023 to 2027 and beyond, in EUR million, for the DG: CNECT and the European Data Protection Supervisor. The expenditure is divided into human resources and other administrative costs. For both entities, the human resources cost is 0.760 per year, totaling 3.800. Other administrative expenditure is 0.010 per year, totaling 0.050. The total appropriations for DG CNECT is 3.850.
+
+
+The legislation outlines the total appropriations under Heading 7 of the multiannual financial framework for the years 2022 to 2027, with total commitments equalling total payments. The total appropriations under Headings 1 to 7 for the same period are also provided, with separate figures for commitments and payments. The estimated output funded with operational appropriations is also mentioned.
+
+
+The document outlines a cost projection for a specific objective over the years 2022 to 2027. The costs are broken down by year and type, including database and meetings. The total number and cost for each type are also provided.
+
+
+The legislation outlines the allocation of funds for specific objectives, with a total of 65 units and 2.200 million EUR. It also states that the initiative requires the use of administrative appropriations. The estimated impact on administrative appropriations for the years 2022 and 2023 is also to be considered.
+
+
+The legislation outlines the multiannual financial framework for the years 2024 to 2027 and beyond. It allocates 1.520 for human resources and 0.010 for other administrative expenditure under Heading 7 each year, totaling 7.650. Outside Heading 7, it allocates 0.240 for other administrative expenditure each year, totaling 1.20.
+
+
+The proposal requires the use of human resources, with an estimated need for 10 full-time equivalent units each year from 2023 to 2027 and beyond. This includes posts for officials and temporary staff at the headquarters and Commission's Representation Offices. The funding for these resources will come from the DG's existing appropriations and any additional allocations granted under the annual allocation procedure.
+
+
+The policy requires human resources from the DG, with potential additional allocation. EDPS will provide half of the resources. Tasks include preparing meetings, drafting reports, policy work, and maintaining relations with authorities. Four AD FTE and 1 AST FTE are required. For AI systems, EDPS is responsible, requiring 5 AD FTE. The initiative can be financed through redeployment within the MFF, with no reprogramming needed. It doesn't provide for co-financing by third parties. The impact on revenue is not specified.
+
+
+This document outlines the financial and administrative implications of implementing a new legislative framework for Artificial Intelligence (AI) in the European Union. It includes references to various European Commission documents, European Council meetings, and European Parliament resolutions related to AI. It also refers to several existing EU directives and regulations that may be affected by the proposed AI legislation. The document provides a detailed breakdown of the expected impact on the EU budget over several years, including the costs of staff and administrative support. It also includes a list of references to other relevant EU documents and legislation.
+
+
+This proposal outlines the European Parliament's regulation for harmonized rules on Artificial Intelligence (AI). It includes definitions of AI techniques such as machine learning, logic-based approaches, and statistical approaches. It also lists Union harmonization legislation related to machinery, toys, recreational craft, lifts, explosive atmospheres, radio equipment, pressure equipment, cableway installations, personal protective equipment, gaseous fuels, medical devices, and in vitro diagnostic medical devices. Other legislation covers civil aviation security, two- or three-wheel vehicles, agricultural and forestry vehicles, marine equipment, rail system, motor vehicles, and aircrafts. The proposal identifies high-risk AI systems in areas like biometric identification, critical infrastructure management, education, vocational training, employment, and workers management.
+
+
+This legislation outlines the use of AI systems in various sectors including public services, law enforcement, migration, and justice. It details the technical documentation required for AI systems, including a general description, detailed description of the development process, information about the system's functioning, a description of the risk management system, and a record of any changes made. It also requires a detailed plan for evaluating the system's performance post-market. The legislation also mandates an EU declaration of conformity, which includes information about the AI system, the provider, and a statement of conformity with this regulation and any other relevant Union legislation.
+
+
+This legislation outlines the procedures for conformity assessment of AI systems based on internal control and quality management system. It details the requirements for the provider's quality management system, including the need for regular verification and updates. The provider must also assess the AI system's compliance with essential requirements and ensure consistency with technical documentation. The legislation also covers the assessment of the technical documentation by a notified body, which may require further evidence or tests. The notified body will issue a certificate if the AI system is in compliance, or refuse if it is not. Any changes to the AI system or quality management system must be approved by the notified body. The legislation also mandates surveillance of the approved quality management system and periodic audits. Lastly, it specifies the information to be submitted for the registration of high-risk AI systems.
+
+
+This legislation outlines the required information for AI system providers, including contact details, system details, certification, and EU conformity declaration. It excludes high-risk AI systems in law enforcement and migration from providing electronic instructions. It also lists EU legislation on large-scale IT systems in areas of Freedom, Security, and Justice, including the Schengen Information System, Visa Information System, Eurodac, Entry/Exit System, European Travel Information and Authorisation System, European Criminal Records Information System on third-country nationals and stateless persons, and Interoperability.
