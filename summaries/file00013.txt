@@ -1,0 +1,15 @@
+Article 41 allows the Commission to adopt common specifications for AI systems if harmonised standards are insufficient or non-existent. The Commission must consult relevant bodies or expert groups when preparing these specifications. AI systems that comply with these specifications are presumed to meet the requirements of Chapter 2. Providers not complying with these specifications must justify their technical solutions.
+
+Article 42 presumes high-risk AI systems to be in compliance with certain requirements if they have been trained and tested on specific data or certified under a cybersecurity scheme.
+
+Article 43 outlines the conformity assessment procedures for high-risk AI systems. Providers must follow specific procedures based on whether they have applied harmonised standards or common specifications. High-risk AI systems must undergo a new conformity assessment if substantially modified.
+
+Article 44 states that certificates issued by notified bodies are valid for up to five years and can be extended. If an AI system no longer meets requirements, the certificate can be suspended or withdrawn.
+
+Article 45 ensures an appeal procedure against decisions of notified bodies.
+
+Article 46 requires notified bodies to inform the notifying authority of any changes to certificates or approvals and share information with other notified bodies.
+
+Article 47 allows market surveillance authorities to authorise the use of specific high-risk AI systems for exceptional reasons, subject to certain conditions and procedures.
+
+Article 48 is not provided.

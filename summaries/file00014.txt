@@ -1,0 +1,11 @@
+AI system providers must create an EU declaration of conformity for each AI system, kept for 10 years and provided to authorities upon request. The declaration confirms the AI system meets requirements outlined in Chapter 2 and contains information from Annex V, translated into required languages. If multiple legislations apply, a single declaration is drawn up. The provider assumes responsibility for compliance. The Commission can update the declaration content as needed.
+
+High-risk AI systems must have a visible CE marking of conformity. If not possible, it's affixed to packaging or documentation. The marking follows principles in Regulation (EC) No 765/2008 and includes the identification number of the notified body responsible for conformity assessment.
+
+Providers must keep technical documentation, quality management system documentation, approved changes, decisions, and other documents issued by notified bodies, and the EU declaration of conformity for 10 years. High-risk AI systems must be registered in the EU database before being placed on the market.
+
+AI systems interacting with humans must inform them they're interacting with an AI, unless it's obvious or the system is used for law enforcement. Users of emotion recognition or biometric categorisation systems must inform exposed individuals. AI systems generating or manipulating content resembling real entities must disclose the content is artificially generated.
+
+AI regulatory sandboxes provide a controlled environment for AI system development, testing, and validation under supervision of competent authorities. Participants remain liable for any harm caused during sandbox experimentation. Sandbox activities are coordinated within the European Artificial Intelligence Board, with annual reports submitted to the Board and the Commission. Implementing acts outline the operation of the sandboxes.
+
+In the sandbox, personal data collected for other purposes can be processed for developing and testing AI systems under certain conditions, including substantial public interest, necessity, effective monitoring mechanisms, data isolation, no data transmission to other parties, and no measures or decisions affecting data subjects.

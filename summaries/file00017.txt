@@ -1,0 +1,7 @@
+This legislation outlines the responsibilities of AI system operators and market surveillance authorities in the EU. Operators must take corrective action for non-compliant AI systems. If they fail to do so, the market surveillance authority can restrict or withdraw the product from the market and must inform the Commission and other Member States. The authority must provide detailed information about the non-compliant AI system and the measures taken. If no objections are raised within three months, the measures are deemed justified. 
+
+The Union safeguard procedure is initiated if objections are raised or if the Commission deems the measure contrary to Union law. The Commission will consult with the relevant parties and decide if the measure is justified. If justified, all Member States must ensure the non-compliant AI system is withdrawn from their market. 
+
+If an AI system is compliant but presents a risk, the market surveillance authority can require the operator to take corrective action, withdraw the product, or recall it. The Commission will evaluate the measures taken. 
+
+The legislation also covers formal non-compliance, confidentiality, and penalties. Operators must correct non-compliance issues, and if they persist, the Member State can restrict or withdraw the product. Confidentiality of information obtained during the application of this regulation must be respected. Penalties for infringements are to be set by Member States and must be effective, proportionate, and dissuasive.

@@ -1,0 +1,9 @@
+This legislation outlines the rules for handling personal data in AI regulatory sandboxes, including data deletion and log retention. It mandates a detailed description of AI system training, testing, and validation processes. It also requires a summary of the AI project to be published on the competent authorities' website. 
+
+The legislation also provides measures for small-scale providers and users, including priority access to sandboxes, awareness activities, and a dedicated communication channel. It also proposes reduced fees for conformity assessment based on their size and market size.
+
+The legislation establishes the European Artificial Intelligence Board to advise and assist the Commission in matters related to AI. The Board is composed of national supervisory authorities and the European Data Protection Supervisor. The Board's tasks include sharing expertise, contributing to uniform practices, and issuing opinions on matters related to AI implementation.
+
+Each Member State must establish national competent authorities to ensure the application and implementation of this Regulation. These authorities should be adequately resourced and may provide guidance on the implementation of this Regulation. 
+
+The legislation also mentions the creation of an EU database for stand-alone high-risk AI systems.

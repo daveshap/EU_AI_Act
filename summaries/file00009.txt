@@ -1,0 +1,5 @@
+High-risk AI systems must have logging capabilities for traceability and monitoring, recording usage periods, reference databases, input data, and identification of individuals verifying results. These systems must be transparent, with clear instructions and information about the provider, system's purpose, performance, limitations, changes, human oversight measures, and expected lifetime. 
+
+Human oversight is required to minimize risks, with measures built into the system or implemented by the user. The overseers must understand the system's capacities and limitations, be aware of automation bias, interpret the system's output, have the ability to override the system, and intervene or stop the system's operation. 
+
+High-risk AI systems must achieve appropriate levels of accuracy, robustness, and cybersecurity, and be resilient against errors, faults, inconsistencies, and unauthorized third-party attempts to alter their use or performance. Providers of these systems must ensure compliance with these requirements.

@@ -1,0 +1,5 @@
+This legislation mandates that high-risk AI systems must comply with established requirements, considering their intended purpose and risk management system. A risk management system must be implemented, involving continuous analysis and evaluation of known and foreseeable risks, adoption of risk management measures, and communication of residual risks to the user. The AI systems must be tested for risk management measures and compliance with requirements. 
+
+The legislation also requires the use of quality training, validation, and testing data sets for developing high-risk AI systems. These data sets must be relevant, representative, free of errors, and complete. They should also consider specific geographical, behavioural, or functional settings. 
+
+The legislation mandates the creation of technical documentation before the AI system is placed on the market or put into service, which should demonstrate compliance with requirements. The AI systems should also have capabilities for automatic recording of events (logs) while operating.

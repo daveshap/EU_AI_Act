@@ -1,0 +1,11 @@
+The EU Commission, with Member States, will establish a database for high-risk AI systems, with data provided by the system providers. The database will be publicly accessible and contain personal data only when necessary. The Commission will manage the database and provide technical support to providers.
+
+Providers must establish a post-market monitoring system for high-risk AI systems, collecting and analyzing data on system performance. The system will be based on a post-market monitoring plan, which will be part of the technical documentation.
+
+Providers must report any serious incidents or malfunctioning of high-risk AI systems to the market surveillance authorities. The authorities will then inform the national public authorities or bodies.
+
+Regulation (EU) 2019/1020 will apply to AI systems covered by this Regulation. The national supervisory authority will report on market surveillance activities to the Commission. For high-risk AI systems, the market surveillance authority will be the authority responsible for market surveillance activities designated under those legal acts.
+
+Market surveillance authorities will have full access to the training, validation, and testing datasets used by the provider, and, if necessary, to the source code of the AI system. National public authorities or bodies will have the power to request and access any documentation created or maintained under this Regulation.
+
+If an AI system presents a risk, the market surveillance authority of a Member State will carry out an evaluation of the AI system. If the system does not comply with the requirements, the authority will require the operator to take corrective actions. If non-compliance is not restricted to its national territory, the authority will inform the Commission and the other Member States.
